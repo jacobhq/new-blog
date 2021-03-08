@@ -1,4 +1,4 @@
-# [Nextra](https://nextra.vercel.app)
+# [Nextra](http://blog.jacobhq.xyz)
 
 _Warning: this project is not production ready, API might change without notice._
 

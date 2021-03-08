@@ -1,7 +1,17 @@
-# Blog
+import Callout from 'nextra-theme-docs/callout'
 
-Welcome to the JacobHQ blog. 
+# Welcome
+## Bullets
+- 🔭 I’m currently working on **my company's ad network, [Desiads](https://ads.desica.uk/)**
+- 🌱 I’m currently learning **Vercel's Next.js**
+- 👯 I’m looking to collaborate on **anything. Reach out to me**
+- 💬 Ask me about **Vue.js**
+- 📫 How to reach me: **[info@desica.uk](mailto:info@desica.uk)**
+- ⚡ Fun fact: **I've been on github since before I could say repository**
 
-It supports Markdown with React components ([MDX](/docs/mdx)), automatically generated [sidebar and anchor links](/docs/anchors), file-system based routing, built-in syntax highlighting, i18n and more.
+<Callout emoji="☕">
+  **Want to support me?** Please consider [buying me a coffee](https://buymeacoffee.com/jem)!
+</Callout>
 
-![](/demo.png)
+## Bio
+Welcome to the JacobHQ blog, I used markdown (MDX) and Nextra (A nextjs CMS). I'll be talking about my recent projects, any nice photos I happen to take, and other things that I experience. I'll group it into folders so that you can find my posts in an easy way.
