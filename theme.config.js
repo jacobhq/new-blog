@@ -1,5 +1,6 @@
 export default {
   repository: 'https://github.com/jacobhq/new-blog',
+  docsRepository: 'https://github.com/jacobhq/new-blog',
   titleSuffix: ' – JacobHQ',
   logo: (
     <>
@@ -37,5 +38,5 @@ export default {
   nextLinks: true,
   footer: true,
   footerEditOnGitHubLink: true,
-  footerText: <>MIT {new Date().getFullYear()} © Jacob Marshall.</>
+  footerText: <>© {new Date().getFullYear()} Jacob Marshall</>
 }
